@@ -6,4 +6,4 @@ Este es el repositorio dedicado para realizar el entrgable del curso de prrogram
 - Mónica Alejandra Rodriguez
 - Alejandra Morales Ordoñez
 - Kevin Steven Cufiño Robayo
-- Josefina Valoyes CórdobaJosefina Valoyes Córdoba
+- Josefina Valoyes Córdoba
